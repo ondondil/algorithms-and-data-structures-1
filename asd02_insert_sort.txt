@@ -1,0 +1,28 @@
+Wejście:
+3
+5 5
+Adamczyk 3
+Sikora 4
+Szewczyk 1 
+Pietrzak 1
+Mazur 3
+6 3
+Wisniewski 5 
+Wojcik 4 
+Wojciechowska 5 
+Wozniak 4
+Wrobel 4 
+Walczak 5
+4 4
+Nowak 10 
+Malinowski 10 
+Duda 10 
+Kowalska 10
+
+Wyjście:
+Sikora Adamczyk Mazur Pietrzak Szewczyk
+21
+Walczak Wisniewski Wojciechowska
+69
+Duda Kowalska Malinowski Nowak
+64

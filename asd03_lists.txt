@@ -1,0 +1,16 @@
+Przykładowe wejście:
+7 5
+spadaniem 5
+czestym 0
+kamien 7
+drazy -2
+sila 2
+Kropla -2
+nie -1
+3
+lecz 1 -5
+tak 8 2
+syzbko -9 6
+
+Przykładowe wyjście:
+Kropla drazy kamien nie sila lecz czestym spadaniem

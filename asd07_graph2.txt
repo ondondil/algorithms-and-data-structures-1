@@ -1,0 +1,32 @@
+Wejście:
+2
+6 5
+Abramczyk 
+Bednarski
+Cajzer
+Dzik
+Elert
+Frackowiak
+Abramczyk Bednarski
+Abramczyk Cajzer
+Bednarski Dzik
+Elert Frackowiak
+Cajzer Dzik
+Elert Abramczyk Frackowiak Cajzer Bednarski Dzik
+6 5
+Abramczyk 
+Bednarski
+Cajzer
+Dzik
+Elert
+Frackowiak
+Abramczyk Bednarski
+Abramczyk Cajzer
+Bednarski Dzik
+Elert Frackowiak
+Cajzer Dzik
+Elert Frackowiak Bednarski Cajzer Abramczyk Dzik
+
+Wyjście:
+TAK
+NIE

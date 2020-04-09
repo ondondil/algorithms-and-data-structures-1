@@ -1,0 +1,6 @@
+Przykładowe wejście:
+20 20 2
+
+Przykładowe wyjście:
+5 5
+14 16

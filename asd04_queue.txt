@@ -1,0 +1,18 @@
+Przykładowe wejście:
+6 5
+Jan Nowak 12
+Wojciech Kowalski 11
+Irena Krawiec 1
+Marcin Janowski 3
+Krystian Król 2
+Joanna Malinowska 10
+
+
+Przykładowe wyjście:
+Irena Krawiec
+Marcin Janowski
+Krystian Król
+
+Joanna Malinowska
+Jan Nowak
+Wojciech Kowalski
